@@ -1,2 +1,3 @@
 # shrishti.demo
-this is my first Git repository
+this is my fauirst Git repository
+author- Shrishti
